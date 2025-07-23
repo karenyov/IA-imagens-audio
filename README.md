@@ -31,3 +31,4 @@ pip install -r requirements.txt
 
 - Para gerar/atualizar o requirements.txt: ```pip freeze > requirements.txt```
 - Para desativar o ambiente virtual: ```deactivate```
+- Rodar o jupyter: ```jupyter lab```
