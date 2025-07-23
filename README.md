@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 ## 🧪 Comandos úteis
 
-Para gerar/atualizar o requirements.txt: ```pip freeze > requirements.txt```
-Para desativar o ambiente virtual: ```deactivate```
+- Para gerar/atualizar o requirements.txt: ```pip freeze > requirements.txt```
+- Para desativar o ambiente virtual: ```deactivate```
